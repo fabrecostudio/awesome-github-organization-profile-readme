@@ -27,7 +27,9 @@
 
 ### Styled
 
+- [Coetus](https://github.com/coetus-jd/.github/blob/main/profile/README.md)
 - [GitHub](https://github.com/github/.github/blob/main/profile/README.md)
+- [Valor Software](https://github.com/valor-software/.github/blob/master/profile/README.md)
 
 ### Objective
 
