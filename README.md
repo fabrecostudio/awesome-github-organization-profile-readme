@@ -24,16 +24,19 @@
 - [JoliCode](https://github.com/jolicode/.github/blob/main/profile/README.md)
 - [Microsoft](https://github.com/microsoft/.github/blob/main/profile/README.md)
 - [NodeJs](https://github.com/nodejs/.github/blob/main/profile/README.md)
+- [The PHP Foundation](https://github.com/ThePHPF/.github/blob/main/profile/README.md)
 
 ### Styled
 
 - [Coetus](https://github.com/coetus-jd/.github/blob/main/profile/README.md)
 - [GitHub](https://github.com/github/.github/blob/main/profile/README.md)
 - [Valor Software](https://github.com/valor-software/.github/blob/master/profile/README.md)
+- [OpenTelemetry - CNCF](https://github.com/open-telemetry/.github/blob/main/profile/README.md)
 
 ### Objective
 
 - [EstReal](https://github.com/EstReal/.github/blob/main/profile/README.md)
+- [Laravel](https://github.com/laravel/.github/blob/main/profile/README.md)
 
 ### Templates
 
