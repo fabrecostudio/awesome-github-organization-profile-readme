@@ -38,6 +38,10 @@
 - [EstReal](https://github.com/EstReal/.github/blob/main/profile/README.md)
 - [Laravel](https://github.com/laravel/.github/blob/main/profile/README.md)
 
+### More detailed
+
+- [IzanagiCraft](https://github.com/IzanagiCraft/.github/blob/main/profile/README.md)
+
 ### Templates
 
 - [rnovec - README template for organization](https://gist.github.com/rnovec/70c6f9555d9a4bea07b87b8c44781121)
