@@ -41,6 +41,7 @@
 ### More detailed
 
 - [IzanagiCraft](https://github.com/IzanagiCraft/.github/blob/main/profile/README.md)
+- [Webstudio](https://github.com/webstudioso/.github/blob/main/profile/README.md)
 
 ### Templates
 
