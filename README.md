@@ -4,7 +4,10 @@
   A curated list of awesome READMEs of organizations.
 </p>
 
-> How to create a README for your organization? Take a look at: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+> [!WARNING]  
+> This repository does not intend, in any way, to promote or to disclose any company, whether private or public, its content is intended to only serve as an inspiration.
+
+> How do you create a README for your organization? Take a look at: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 
 ## Contents
 
