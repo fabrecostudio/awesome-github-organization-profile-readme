@@ -5,7 +5,7 @@
 </p>
 
 > [!WARNING]  
-> This repository does not intend, in any way, to promote or to disclose any company, whether private or public, its content is intended to only serve as an inspiration.
+> This repository does not intend, in any way, to promote or to disclose any company, whether private or public; its content is intended only to serve as an inspiration.
 
 > How do you create a README for your organization? Take a look at: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 
@@ -40,6 +40,7 @@
 
 - [EstReal](https://github.com/EstReal/.github/blob/main/profile/README.md)
 - [Laravel](https://github.com/laravel/.github/blob/main/profile/README.md)
+- [MagaluCloud](https://github.com/MagaluCloud)
 
 ### More detailed
 
