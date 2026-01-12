@@ -1,3 +1,46 @@
+# Site settings
+title: "Awesome GitHub Organization Profile READMEs"
+description: "A curated, categorized list of high-quality GitHub organization profile READMEs and templates, showcasing best practices and inspiration for building professional organization profiles."
+
+# Theme settings
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Optional: Show download button (set to false if you don't want it)
+show_downloads: true
+
+# SEO and social media settings
+author: "Fabreco Studio"
+lang: en-US
+
+# GitHub repository information (will be auto-populated by GitHub Pages)
+# But you can override if needed
+# github:
+#   repository_url: https://github.com/fabrecostudio/awesome-github-organization-profile-readme
+#   repository_name: awesome-github-organization-profile-readme
+
+# Social links (optional - for SEO)
+social:
+  name: Fabreco Studio
+  links:
+    - https://github.com/fabrecostudio
+
+# Google Analytics (optional - add your tracking ID if you have one)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Additional SEO settings
+tagline: "Curated examples and templates for exceptional GitHub organization profiles"
+keywords: "github, organization, profile, readme, templates, examples, best practices, open source, awesome list"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - IMPLEMENTATION_GUIDE.md

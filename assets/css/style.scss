@@ -1,0 +1,200 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom enhancements for Awesome GitHub Organization Profile READMEs */
+
+/* Improve readability */
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Better spacing for content */
+#main-content {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* Style the awesome badge and other badges */
+img[alt*="Awesome"],
+img[alt*="Stars"],
+img[alt*="License"] {
+  display: inline-block;
+  margin: 5px 5px 5px 0;
+  vertical-align: middle;
+}
+
+/* Enhance blockquote (the intro paragraph) */
+blockquote {
+  border-left: 4px solid #d02e28;
+  padding: 15px 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  font-size: 1.1em;
+  font-style: normal;
+}
+
+blockquote strong {
+  color: #d02e28;
+}
+
+/* Category headers */
+h3 {
+  margin-top: 35px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 8px;
+}
+
+/* Category descriptions (italics after h3) */
+h3 + p em {
+  display: block;
+  background-color: #f5f5f5;
+  padding: 12px 15px;
+  margin: 15px 0;
+  border-left: 3px solid #d02e28;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+/* Enhance list items in categories */
+h3 + p + ul li,
+h3 + ul li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Style entry descriptions in lists */
+h3 + p + ul li strong {
+  color: #333;
+}
+
+/* Improve table of contents */
+h2[id="contents"] + ul {
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  padding: 20px 20px 20px 40px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+/* FAQ section styling */
+h2[id="faq"] ~ h3 {
+  color: #d02e28;
+  margin-top: 25px;
+}
+
+/* Improve code blocks */
+pre {
+  background-color: #f6f6f6;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 15px;
+  overflow-x: auto;
+}
+
+code {
+  background-color: #f6f6f6;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Horizontal rules styling */
+hr {
+  border: 0;
+  border-top: 2px solid #e5e5e5;
+  margin: 40px 0;
+}
+
+/* Emoji styling */
+.emoji {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+}
+
+/* Enhance links */
+a {
+  color: #d02e28;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #a02520;
+  text-decoration: underline;
+}
+
+/* Notes and alerts styling */
+.markdown-alert {
+  padding: 15px;
+  margin: 20px 0;
+  border-left: 4px solid;
+  border-radius: 3px;
+}
+
+.markdown-alert-note {
+  background-color: #e8f4f8;
+  border-color: #0969da;
+}
+
+/* Improve nested lists */
+ul ul,
+ol ul {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* Checkbox styling for contribution checklist */
+input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+/* Mobile responsiveness improvements */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 1.8em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+  }
+  
+  blockquote {
+    padding: 10px 15px;
+    font-size: 1em;
+  }
+}
+
+/* Print styles */
+@media print {
+  #header,
+  .downloads {
+    display: none;
+  }
+  
+  body {
+    font-size: 12pt;
+    color: #000;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+}
