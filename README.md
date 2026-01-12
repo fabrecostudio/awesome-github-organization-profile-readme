@@ -4,11 +4,6 @@
   A curated list of awesome READMEs of organizations.
 </p>
 
-> [!WARNING]  
-> This repository does not intend, in any way, to promote or to disclose any company, whether private or public; its content is intended only to serve as an inspiration.
-
-> How do you create a README for your organization? Take a look at: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
-
 ## Contents
 
 - [Categories](#categories)
@@ -60,6 +55,8 @@
 
 ## Other resources
 
+> How do you create a README for your organization? Take a look at: [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+
 > This repository was inspired from [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) github repository.
 
 - [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
@@ -67,3 +64,7 @@
 ## 📃 License
 
 This project is licensed under the MIT License. For details, please look at the [LICENSE](LICENSE) file.
+
+
+> [!WARNING]  
+> This repository does not intend, in any way, to promote or to disclose any company, whether private or public; its content is intended only to serve as an inspiration.
