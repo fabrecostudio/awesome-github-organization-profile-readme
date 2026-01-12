@@ -1,7 +1,7 @@
 # 🌟 Awesome GitHub Organization Profile Readme
 
-<p align="center">
-  A curated list of awesome READMEs of organizations.
+<p>
+A curated, categorized list of high-quality organization profile READMEs and templates for GitHub organizations — inspiration and best practices for README design and structure.
 </p>
 
 ## Contents
