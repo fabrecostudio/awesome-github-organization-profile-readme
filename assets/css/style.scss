@@ -88,23 +88,28 @@ h2[id="faq"] ~ h3 {
 
 /* Improve code blocks */
 pre {
-  background-color: #f6f6f6;
-  border: 1px solid #ddd;
+  background-color: #2d2d2d;
+  border: 1px solid #444;
   border-radius: 3px;
   padding: 15px;
   overflow-x: auto;
+  color: #f8f8f2;
 }
 
 code {
-  background-color: #f6f6f6;
+  background-color: #f0f0f0;
   padding: 2px 6px;
   border-radius: 3px;
   font-size: 0.9em;
+  color: #333;
+  border: 1px solid #ddd;
 }
 
 pre code {
   background-color: transparent;
   padding: 0;
+  color: #f8f8f2;
+  border: none;
 }
 
 /* Horizontal rules styling */

@@ -34,6 +34,10 @@ social:
 tagline: "Curated examples and templates for exceptional GitHub organization profiles"
 keywords: "github, organization, profile, readme, templates, examples, best practices, open source, awesome list"
 
+# Open Graph image for social media sharing
+image: /assets/images/og-image.png
+logo: /assets/images/og-image.png
+
 # Exclude files from processing
 exclude:
   - Gemfile
