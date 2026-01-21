@@ -27,8 +27,8 @@ social:
   links:
     - https://github.com/fabrecostudio
 
-# Google Analytics (optional - add your tracking ID if you have one)
-# google_analytics: UA-XXXXXXXXX-X
+# Google Analytics
+google_analytics: G-MHKN7PWVCP
 
 # Additional SEO settings
 tagline: "Curated examples and templates for exceptional GitHub organization profiles"
