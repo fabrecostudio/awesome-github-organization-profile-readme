@@ -282,9 +282,17 @@ Have an idea for a new category? Open an issue describing:
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for complete details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for complete details. The website may display ads to cover hosting and maintenance costs.
 
 **In short:** You're free to use, modify, and share this list with attribution. Contributions are welcomed and appreciated!
+
+---
+
+## Privacy Policy
+
+View our [Privacy Policy](/privacy) to learn about how we collect and use data on this website, including information about cookies, Google Analytics, and advertising.
+
+> Ads help support maintenance of this open-source project ❤️
 
 ---
 
